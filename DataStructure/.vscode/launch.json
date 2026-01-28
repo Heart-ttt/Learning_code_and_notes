@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/a1/百度网盘同步/All Projects/cprojects/DataStructure",
+      "program": "/Users/a1/百度网盘同步/All Projects/cprojects/DataStructure/build/Debug/outDebug"
+    }
+  ]
+}
