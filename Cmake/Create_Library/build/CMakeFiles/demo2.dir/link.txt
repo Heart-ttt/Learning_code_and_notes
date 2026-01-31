@@ -1,0 +1,1 @@
+/usr/bin/cc  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libdemo2.dylib -install_name @rpath/libdemo2.dylib CMakeFiles/demo2.dir/src/add.c.o CMakeFiles/demo2.dir/src/div.c.o CMakeFiles/demo2.dir/src/sub.c.o CMakeFiles/demo2.dir/src/times.c.o

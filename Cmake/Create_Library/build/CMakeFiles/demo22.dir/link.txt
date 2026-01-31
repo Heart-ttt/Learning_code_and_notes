@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdemo22.a CMakeFiles/demo22.dir/src/add.c.o CMakeFiles/demo22.dir/src/div.c.o CMakeFiles/demo22.dir/src/sub.c.o CMakeFiles/demo22.dir/src/times.c.o
+/usr/bin/ranlib libdemo22.a

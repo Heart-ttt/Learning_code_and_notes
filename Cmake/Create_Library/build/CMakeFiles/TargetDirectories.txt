@@ -1,0 +1,3 @@
+/Users/a1/All Projects/Re_Examination/Cmake/demo2/build/CMakeFiles/demo22.dir
+/Users/a1/All Projects/Re_Examination/Cmake/demo2/build/CMakeFiles/edit_cache.dir
+/Users/a1/All Projects/Re_Examination/Cmake/demo2/build/CMakeFiles/rebuild_cache.dir

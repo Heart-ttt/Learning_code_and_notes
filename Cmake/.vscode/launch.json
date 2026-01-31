@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/a1/All Projects/Re_Examination/Cmake/demo1",
+      "program": "/Users/a1/All Projects/Re_Examination/Cmake/demo1/build/Debug/outDebug"
+    }
+  ]
+}
