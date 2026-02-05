@@ -16,4 +16,4 @@ setting:`format on save`
 # 快捷键
 vscode+vim?
 
-打开关闭终端: `ctrl+~`
+打开关闭终端: `ctrl+~`(映射要对，要是英文模式)
